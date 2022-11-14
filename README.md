@@ -18,7 +18,8 @@ O LAMA, Labenu Musical Awards, um festival  com várias bandas famosas. A ideia 
  Os horários válidos são entre 08h e 23h e só podem ser marcados em horários redondos, ou seja, pode ser 08h - 09h ou 09h - 13h mas não pode ser 09h - 10h30 ou 10h30 - 14h.
  
 - ```Pegar todos os shows de uma data.``` Recebe um dia (sexta, sábado ou domingo) e retorna todos os shows daquela data (ordenados pelo horário), mostrando somente o nome da banda e o gênero musical principal.
-- 
+
+
 ### Tecnologias
  - NodeJs
  - Typescript
