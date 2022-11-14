@@ -15,7 +15,7 @@ O LAMA, Labenu Musical Awards, um festival  com várias bandas famosas. A ideia 
 - ```Visualização de detalhes sobre a banda.``` Recebendo o id da banda ou o nome da banda retornará todas as informações salvas sobre ela.
 
 - ```Adicionar um show a um dia.``` Para cadastrar um show preciso do id da banda e o dia (sexta, sábado ou domingo) e o horário em que ela irá se apresentar.
- Os horários válidos são entre 08h e 23h e só podem ser marcados em horários redondos, ou seja, pode ser 08h - 09h ou 09h - 13h mas não pode ser 09h - 10h30 ou 10h30 - 14h.
+ Os horários válidos são entre 08h e 23h e só podem ser marcados em horários redondos, ou seja, pode ser 08h - 09h ou 09h - 13h mas não pode ser 09h - 10h30 ou 10h30 - 14h. ***somente usuários admins podem registrar bandas***
  
 - ```Pegar todos os shows de uma data.``` Recebe um dia (sexta, sábado ou domingo) e retorna todos os shows daquela data (ordenados pelo horário), mostrando somente o nome da banda e o gênero musical principal.
 
