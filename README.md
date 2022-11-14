@@ -1,4 +1,4 @@
-# Labenu Music Awards
+# Labenu Music Awards.
 
 
 ### Sobre o projeto:
