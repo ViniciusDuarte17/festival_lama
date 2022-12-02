@@ -31,9 +31,39 @@ O LAMA, Labenu Musical Awards, um festival  com várias bandas famosas. A ideia 
  - Arquitetura em camadas
  - Testes unitários
  - jest
+ 
+ ### Instruções para rodar aplicação localmente
+ 
+ Clone o projeto
+
+```bash
+git clone https://github.com/ViniciusDuarte17/Desafio_shopper.git
+```
+Instale as dependências
+
+```bash
+npm install
+```
+
+```bash
+Criar o arquivo .env no back-end
+```
+
+Criar migrations
+
+```
+npm run migrations
+```
+Inicie o servidor
+
+```
+npm run dev 
+```
 
  ### Documentação
-
+```
+BASE_URL DO BACK-END: https://festival-lama.herokuapp.com
+```
 [Documentação](https://bit.ly/documenter-lama)
 
 ## Autor
