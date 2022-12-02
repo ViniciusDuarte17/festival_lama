@@ -37,7 +37,7 @@ O LAMA, Labenu Musical Awards, um festival  com várias bandas famosas. A ideia 
  Clone o projeto
 
 ```bash
-git clone https://github.com/ViniciusDuarte17/Desafio_shopper.git
+git clone https://github.com/ViniciusDuarte17/festival_lama.git
 ```
 Instale as dependências
 
